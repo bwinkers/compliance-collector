@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-compliancecollector-dev-223929-authRole",
+      "UnauthRoleArn": "arn:aws:iam::934684196725:role/amplify-compliancecollector-dev-223929-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::934684196725:role/amplify-compliancecollector-dev-223929-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-compliancecollector-dev-223929-deployment",
+      "UnauthRoleName": "amplify-compliancecollector-dev-223929-unauthRole",
+      "StackName": "amplify-compliancecollector-dev-223929",
+      "StackId": "arn:aws:cloudformation:us-east-1:934684196725:stack/amplify-compliancecollector-dev-223929/19e357d0-ac9b-11eb-98a7-0ab4742ddfab",
+      "AmplifyAppId": "d28wqo8zzrfwp0"
+    },
+    "categories": {
+      "auth": {
+        "compliancecollector5c2f4801": {}
+      },
+      "function": {
+        "S3Trigger404dcf05": {
+          "deploymentBucketName": "amplify-compliancecollector-dev-223929-deployment",
+          "s3Key": "amplify-builds/S3Trigger404dcf05-43565573466c69367145-build.zip"
+        }
+      }
+    }
+  }
+}
